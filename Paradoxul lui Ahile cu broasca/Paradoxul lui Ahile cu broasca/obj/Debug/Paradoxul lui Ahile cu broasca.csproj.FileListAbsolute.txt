@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\Paradoxul_lui_Ahile_cu_broasca.Form1.resources
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\Paradoxul_lui_Ahile_cu_broasca.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\Paradoxul lui Ahile cu broasca.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\bin\Debug\Paradoxul lui Ahile cu broasca.exe
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\bin\Debug\Paradoxul lui Ahile cu broasca.pdb
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\Paradoxul lui Ahile cu broasca.exe
+D:\MARIA\Programare\Aplicatii\Paradoxul lui Ahile cu broasca\Paradoxul lui Ahile cu broasca\obj\Debug\Paradoxul lui Ahile cu broasca.pdb

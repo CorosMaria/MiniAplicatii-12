@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\bin\Debug\Parabola +  grid.exe
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\bin\Debug\Parabola +  grid.pdb
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\Parabola____grid.Form1.resources
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\Parabola____grid.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\Parabola +  grid.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\Parabola +  grid.exe
+D:\MARIA\Programare\Aplicatii\Parabola +  grid\Parabola +  grid\obj\Debug\Parabola +  grid.pdb
